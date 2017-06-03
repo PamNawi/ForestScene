@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A praça é Nossa", "A praça é Nossa.csproj", "{CF072948-19D2-C6A9-7845-128151D2C50E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A praça é Nossa.Editor", "A praça é Nossa.Editor.csproj", "{401371EB-24E2-050C-4D58-F1EC947CA977}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF072948-19D2-C6A9-7845-128151D2C50E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF072948-19D2-C6A9-7845-128151D2C50E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF072948-19D2-C6A9-7845-128151D2C50E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF072948-19D2-C6A9-7845-128151D2C50E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{401371EB-24E2-050C-4D58-F1EC947CA977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{401371EB-24E2-050C-4D58-F1EC947CA977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{401371EB-24E2-050C-4D58-F1EC947CA977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{401371EB-24E2-050C-4D58-F1EC947CA977}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
